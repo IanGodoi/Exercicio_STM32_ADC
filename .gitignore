@@ -1,0 +1,18 @@
+# Pastas de compilação
+Debug/
+Release/
+*/Debug/
+*/Release/
+
+# Arquivos gerados pelo compilador
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.map
+*.list
+
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini
